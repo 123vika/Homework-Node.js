@@ -1,0 +1,23 @@
+{
+  "name": "homework-nodejs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/123vika/Homework-Node.js.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/123vika/Homework-Node.js/issues"
+  },
+  "homepage": "https://github.com/123vika/Homework-Node.js#readme",
+  "dependencies": {
+    "colors": "^1.4.0"
+  }
+}
